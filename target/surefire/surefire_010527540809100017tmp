@@ -1,0 +1,6 @@
+#surefire_0
+#Sat Feb 29 11:24:53 IST 2020
+surefire.suiteXmlFiles=testng.xml.
+user.dir=D\:\\eclipse_Oxygen_workspace\\SampleProject
+localRepository=C\:\\Users\\Welcome\\.m2\\repository
+basedir=D\:\\eclipse_Oxygen_workspace\\SampleProject

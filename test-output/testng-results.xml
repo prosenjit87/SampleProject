@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="125" started-at="2020-02-29T14:21:57Z" finished-at="2020-02-29T14:21:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="125" started-at="2020-02-29T14:21:57Z" finished-at="2020-02-29T14:21:57Z">
+      <class name="com.sellabs.SampleProject.SampleTest">
+        <test-method status="PASS" signature="name()[pri:0, instance:com.sellabs.SampleProject.SampleTest[time=1582986117471,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id=&quot;Asia/Calcutta&quot;,offset=19800000,dstSavings=0,useDaylight=false,transitions=6,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2020,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=5,DAY_OF_MONTH=29,DAY_OF_YEAR=60,DAY_OF_WEEK=7,DAY_OF_WEEK_IN_MONTH=5,AM_PM=1,HOUR=7,HOUR_OF_DAY=19,MINUTE=51,SECOND=57,MILLISECOND=471,ZONE_OFFSET=19800000,DST_OFFSET=0]]" name="name" duration-ms="48" started-at="2020-02-29T19:51:57Z" finished-at="2020-02-29T19:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- com.sellabs.SampleProject.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
